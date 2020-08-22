@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\ConCat\ConCat\bin\Debug\ConCat.exe.config
+L:\Documents\Repos\Visual Studio 2015\ConCat\ConCat\bin\Debug\ConCat.exe
+L:\Documents\Repos\Visual Studio 2015\ConCat\ConCat\bin\Debug\ConCat.pdb
+L:\Documents\Repos\Visual Studio 2015\ConCat\ConCat\obj\Debug\ConCat.exe
+L:\Documents\Repos\Visual Studio 2015\ConCat\ConCat\obj\Debug\ConCat.pdb

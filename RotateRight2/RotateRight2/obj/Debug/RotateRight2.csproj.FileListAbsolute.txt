@@ -1,0 +1,12 @@
+L:\Documents\Repos\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.exe.config
+L:\Documents\Repos\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.exe
+L:\Documents\Repos\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.pdb
+L:\Documents\Repos\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.exe
+L:\Documents\Repos\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.exe.config
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\bin\Debug\RotateRight2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateRight2\RotateRight2\obj\Debug\RotateRight2.pdb

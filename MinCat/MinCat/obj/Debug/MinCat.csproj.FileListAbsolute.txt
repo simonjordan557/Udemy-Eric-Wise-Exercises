@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\bin\Debug\MinCat.exe.config
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\bin\Debug\MinCat.exe
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\bin\Debug\MinCat.pdb
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\obj\Debug\MinCat.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\obj\Debug\MinCat.exe
+L:\Documents\Repos\Visual Studio 2015\MinCat\MinCat\obj\Debug\MinCat.pdb

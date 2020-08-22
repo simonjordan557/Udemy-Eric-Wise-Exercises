@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\bin\Debug\TrimOne.exe.config
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\bin\Debug\TrimOne.exe
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\bin\Debug\TrimOne.pdb
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\obj\Debug\TrimOne.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\obj\Debug\TrimOne.exe
+L:\Documents\Repos\Visual Studio 2015\TrimOne\TrimOne\obj\Debug\TrimOne.pdb

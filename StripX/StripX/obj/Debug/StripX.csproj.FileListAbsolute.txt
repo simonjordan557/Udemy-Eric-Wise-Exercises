@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\bin\Debug\StripX.exe.config
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\bin\Debug\StripX.exe
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\bin\Debug\StripX.pdb
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\obj\Debug\StripX.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\obj\Debug\StripX.exe
+L:\Documents\Repos\Visual Studio 2015\StripX\StripX\obj\Debug\StripX.pdb

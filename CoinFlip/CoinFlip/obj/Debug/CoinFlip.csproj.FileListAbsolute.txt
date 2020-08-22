@@ -1,0 +1,12 @@
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+L:\Documents\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+L:\Backup 19.1.18\Gamedev\Repos\Visual Studio 2015\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb

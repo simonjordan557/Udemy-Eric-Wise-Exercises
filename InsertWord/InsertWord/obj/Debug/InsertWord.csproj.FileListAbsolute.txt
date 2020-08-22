@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\InsertWord\InsertWord\bin\Debug\InsertWord.exe.config
+L:\Documents\Repos\Visual Studio 2015\InsertWord\InsertWord\bin\Debug\InsertWord.exe
+L:\Documents\Repos\Visual Studio 2015\InsertWord\InsertWord\bin\Debug\InsertWord.pdb
+L:\Documents\Repos\Visual Studio 2015\InsertWord\InsertWord\obj\Debug\InsertWord.exe
+L:\Documents\Repos\Visual Studio 2015\InsertWord\InsertWord\obj\Debug\InsertWord.pdb

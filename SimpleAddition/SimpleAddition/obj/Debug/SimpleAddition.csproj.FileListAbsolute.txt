@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe.config
+L:\Documents\Repos\Visual Studio 2015\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.exe
+L:\Documents\Repos\Visual Studio 2015\SimpleAddition\SimpleAddition\bin\Debug\SimpleAddition.pdb
+L:\Documents\Repos\Visual Studio 2015\SimpleAddition\SimpleAddition\obj\Debug\SimpleAddition.exe
+L:\Documents\Repos\Visual Studio 2015\SimpleAddition\SimpleAddition\obj\Debug\SimpleAddition.pdb

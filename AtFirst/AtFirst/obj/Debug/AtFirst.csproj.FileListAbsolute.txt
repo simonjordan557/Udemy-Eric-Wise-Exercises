@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\AtFirst\AtFirst\bin\Debug\AtFirst.exe.config
+L:\Documents\Repos\Visual Studio 2015\AtFirst\AtFirst\bin\Debug\AtFirst.exe
+L:\Documents\Repos\Visual Studio 2015\AtFirst\AtFirst\bin\Debug\AtFirst.pdb
+L:\Documents\Repos\Visual Studio 2015\AtFirst\AtFirst\obj\Debug\AtFirst.exe
+L:\Documents\Repos\Visual Studio 2015\AtFirst\AtFirst\obj\Debug\AtFirst.pdb

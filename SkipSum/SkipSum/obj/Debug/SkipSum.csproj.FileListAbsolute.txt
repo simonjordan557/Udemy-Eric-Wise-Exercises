@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\bin\Debug\SkipSum.exe.config
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\bin\Debug\SkipSum.exe
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\bin\Debug\SkipSum.pdb
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\obj\Debug\SkipSum.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\obj\Debug\SkipSum.exe
+L:\Documents\Repos\Visual Studio 2015\SkipSum\SkipSum\obj\Debug\SkipSum.pdb

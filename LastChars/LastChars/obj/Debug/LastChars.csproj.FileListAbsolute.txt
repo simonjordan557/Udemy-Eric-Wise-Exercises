@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\bin\Debug\LastChars.exe.config
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\bin\Debug\LastChars.exe
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\bin\Debug\LastChars.pdb
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\obj\Debug\LastChars.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\obj\Debug\LastChars.exe
+L:\Documents\Repos\Visual Studio 2015\LastChars\LastChars\obj\Debug\LastChars.pdb

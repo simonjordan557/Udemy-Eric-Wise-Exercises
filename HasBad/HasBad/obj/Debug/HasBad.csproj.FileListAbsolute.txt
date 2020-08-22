@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\HasBad\HasBad\bin\Debug\HasBad.exe.config
+L:\Documents\Repos\Visual Studio 2015\HasBad\HasBad\bin\Debug\HasBad.exe
+L:\Documents\Repos\Visual Studio 2015\HasBad\HasBad\bin\Debug\HasBad.pdb
+L:\Documents\Repos\Visual Studio 2015\HasBad\HasBad\obj\Debug\HasBad.exe
+L:\Documents\Repos\Visual Studio 2015\HasBad\HasBad\obj\Debug\HasBad.pdb

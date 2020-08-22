@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\bin\Debug\TweakFront.exe.config
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\bin\Debug\TweakFront.exe
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\bin\Debug\TweakFront.pdb
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\obj\Debug\TweakFront.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\obj\Debug\TweakFront.exe
+L:\Documents\Repos\Visual Studio 2015\TweakFront\TweakFront\obj\Debug\TweakFront.pdb

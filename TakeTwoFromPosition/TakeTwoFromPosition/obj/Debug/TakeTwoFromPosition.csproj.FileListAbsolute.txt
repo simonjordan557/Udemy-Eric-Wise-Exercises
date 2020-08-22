@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\TakeTwoFromPosition\TakeTwoFromPosition\bin\Debug\TakeTwoFromPosition.exe.config
+L:\Documents\Repos\Visual Studio 2015\TakeTwoFromPosition\TakeTwoFromPosition\bin\Debug\TakeTwoFromPosition.exe
+L:\Documents\Repos\Visual Studio 2015\TakeTwoFromPosition\TakeTwoFromPosition\bin\Debug\TakeTwoFromPosition.pdb
+L:\Documents\Repos\Visual Studio 2015\TakeTwoFromPosition\TakeTwoFromPosition\obj\Debug\TakeTwoFromPosition.exe
+L:\Documents\Repos\Visual Studio 2015\TakeTwoFromPosition\TakeTwoFromPosition\obj\Debug\TakeTwoFromPosition.pdb

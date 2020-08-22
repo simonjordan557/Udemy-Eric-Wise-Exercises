@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe.config
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\bin\Debug\GuessingGame.exe
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\bin\Debug\GuessingGame.pdb
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\obj\Debug\GuessingGame.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\obj\Debug\GuessingGame.exe
+L:\Documents\Repos\Visual Studio 2015\GuessingGame\GuessingGame\obj\Debug\GuessingGame.pdb

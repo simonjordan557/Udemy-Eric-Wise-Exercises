@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\LongInMiddle\LongInMiddle\bin\Debug\LongInMiddle.exe.config
+L:\Documents\Repos\Visual Studio 2015\LongInMiddle\LongInMiddle\bin\Debug\LongInMiddle.exe
+L:\Documents\Repos\Visual Studio 2015\LongInMiddle\LongInMiddle\bin\Debug\LongInMiddle.pdb
+L:\Documents\Repos\Visual Studio 2015\LongInMiddle\LongInMiddle\obj\Debug\LongInMiddle.exe
+L:\Documents\Repos\Visual Studio 2015\LongInMiddle\LongInMiddle\obj\Debug\LongInMiddle.pdb

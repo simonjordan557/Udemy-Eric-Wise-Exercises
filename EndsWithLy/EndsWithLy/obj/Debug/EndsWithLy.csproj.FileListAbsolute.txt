@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\bin\Debug\EndsWithLy.exe.config
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\bin\Debug\EndsWithLy.exe
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\bin\Debug\EndsWithLy.pdb
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\obj\Debug\EndsWithLy.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\obj\Debug\EndsWithLy.exe
+L:\Documents\Repos\Visual Studio 2015\EndsWithLy\EndsWithLy\obj\Debug\EndsWithLy.pdb

@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\MiddleTwo\MiddleTwo\bin\Debug\MiddleTwo.exe.config
+L:\Documents\Repos\Visual Studio 2015\MiddleTwo\MiddleTwo\bin\Debug\MiddleTwo.exe
+L:\Documents\Repos\Visual Studio 2015\MiddleTwo\MiddleTwo\bin\Debug\MiddleTwo.pdb
+L:\Documents\Repos\Visual Studio 2015\MiddleTwo\MiddleTwo\obj\Debug\MiddleTwo.exe
+L:\Documents\Repos\Visual Studio 2015\MiddleTwo\MiddleTwo\obj\Debug\MiddleTwo.pdb

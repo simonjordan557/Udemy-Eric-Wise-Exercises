@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\bin\Debug\LuckySevens.exe.config
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\bin\Debug\LuckySevens.exe
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\bin\Debug\LuckySevens.pdb
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\obj\Debug\LuckySevens.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\obj\Debug\LuckySevens.exe
+L:\Documents\Repos\Visual Studio 2015\LuckySevens\LuckySevens\obj\Debug\LuckySevens.pdb

@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\bin\Debug\TakeOne.exe.config
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\bin\Debug\TakeOne.exe
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\bin\Debug\TakeOne.pdb
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\obj\Debug\TakeOne.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\obj\Debug\TakeOne.exe
+L:\Documents\Repos\Visual Studio 2015\TakeOne\TakeOne\obj\Debug\TakeOne.pdb

@@ -1,0 +1,13 @@
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.exe.config
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.exe
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.pdb
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.exe
+L:\Documents\Repos\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.exe.config
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\bin\Debug\RotateLeft2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2015\RotateLeft2\RotateLeft2\obj\Debug\RotateLeft2.pdb

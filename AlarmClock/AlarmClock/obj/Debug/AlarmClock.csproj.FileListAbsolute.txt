@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe.config
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\bin\Debug\AlarmClock.exe
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\bin\Debug\AlarmClock.pdb
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\obj\Debug\AlarmClock.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\obj\Debug\AlarmClock.exe
+L:\Documents\Repos\Visual Studio 2015\AlarmClock\AlarmClock\obj\Debug\AlarmClock.pdb

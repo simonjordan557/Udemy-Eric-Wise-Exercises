@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\bin\Debug\InRange.exe.config
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\bin\Debug\InRange.exe
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\bin\Debug\InRange.pdb
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\obj\Debug\InRange.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\obj\Debug\InRange.exe
+L:\Documents\Repos\Visual Studio 2015\InRange\InRange\obj\Debug\InRange.pdb

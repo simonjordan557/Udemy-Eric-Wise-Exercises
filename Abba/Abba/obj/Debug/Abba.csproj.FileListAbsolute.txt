@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\bin\Debug\Abba.exe.config
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\bin\Debug\Abba.exe
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\bin\Debug\Abba.pdb
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\obj\Debug\Abba.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\obj\Debug\Abba.exe
+L:\Documents\Repos\Visual Studio 2015\Abba\Abba\obj\Debug\Abba.pdb

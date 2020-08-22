@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\bin\Debug\FrontAgain.exe.config
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\bin\Debug\FrontAgain.exe
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\bin\Debug\FrontAgain.pdb
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\obj\Debug\FrontAgain.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\obj\Debug\FrontAgain.exe
+L:\Documents\Repos\Visual Studio 2015\FrontAgain\FrontAgain\obj\Debug\FrontAgain.pdb

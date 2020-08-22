@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\bin\Debug\FirstHalf.exe.config
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\bin\Debug\FirstHalf.exe
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\bin\Debug\FirstHalf.pdb
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\obj\Debug\FirstHalf.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\obj\Debug\FirstHalf.exe
+L:\Documents\Repos\Visual Studio 2015\FirstHalf\FirstHalf\obj\Debug\FirstHalf.pdb

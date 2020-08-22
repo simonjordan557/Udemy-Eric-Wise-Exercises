@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\bin\Debug\SayHi.exe.config
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\bin\Debug\SayHi.exe
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\bin\Debug\SayHi.pdb
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\obj\Debug\SayHi.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\obj\Debug\SayHi.exe
+L:\Documents\Repos\Visual Studio 2015\SayHi\SayHi\obj\Debug\SayHi.pdb

@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\bin\Debug\Hangman.exe.config
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\bin\Debug\Hangman.exe
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\bin\Debug\Hangman.pdb
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\obj\Debug\Hangman.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\obj\Debug\Hangman.exe
+L:\Documents\Repos\Visual Studio 2015\Hangman\Hangman\obj\Debug\Hangman.pdb

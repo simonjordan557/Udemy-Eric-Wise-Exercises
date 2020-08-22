@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\bin\Debug\SwapLast.exe.config
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\bin\Debug\SwapLast.exe
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\bin\Debug\SwapLast.pdb
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\obj\Debug\SwapLast.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\obj\Debug\SwapLast.exe
+L:\Documents\Repos\Visual Studio 2015\SwapLast\SwapLast\obj\Debug\SwapLast.pdb

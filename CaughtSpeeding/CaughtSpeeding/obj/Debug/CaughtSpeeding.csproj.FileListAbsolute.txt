@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\bin\Debug\CaughtSpeeding.exe.config
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\bin\Debug\CaughtSpeeding.exe
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\bin\Debug\CaughtSpeeding.pdb
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\obj\Debug\CaughtSpeeding.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\obj\Debug\CaughtSpeeding.exe
+L:\Documents\Repos\Visual Studio 2015\CaughtSpeeding\CaughtSpeeding\obj\Debug\CaughtSpeeding.pdb

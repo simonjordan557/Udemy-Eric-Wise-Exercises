@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\bin\Debug\LoveSix.exe.config
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\bin\Debug\LoveSix.exe
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\bin\Debug\LoveSix.pdb
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\obj\Debug\LoveSix.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\obj\Debug\LoveSix.exe
+L:\Documents\Repos\Visual Studio 2015\LoveSix\LoveSix\obj\Debug\LoveSix.pdb

@@ -1,0 +1,6 @@
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\bin\Debug\fRONTaNDbACK.exe.config
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\bin\Debug\fRONTaNDbACK.exe
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\bin\Debug\fRONTaNDbACK.pdb
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\obj\Debug\fRONTaNDbACK.csprojResolveAssemblyReference.cache
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\obj\Debug\fRONTaNDbACK.exe
+L:\Documents\Repos\Visual Studio 2015\fRONTaNDbACK\fRONTaNDbACK\obj\Debug\fRONTaNDbACK.pdb

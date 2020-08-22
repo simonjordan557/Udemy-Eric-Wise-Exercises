@@ -1,0 +1,5 @@
+L:\Documents\Repos\Visual Studio 2015\MakeTags\MakeTags\bin\Debug\MakeTags.exe.config
+L:\Documents\Repos\Visual Studio 2015\MakeTags\MakeTags\bin\Debug\MakeTags.exe
+L:\Documents\Repos\Visual Studio 2015\MakeTags\MakeTags\bin\Debug\MakeTags.pdb
+L:\Documents\Repos\Visual Studio 2015\MakeTags\MakeTags\obj\Debug\MakeTags.exe
+L:\Documents\Repos\Visual Studio 2015\MakeTags\MakeTags\obj\Debug\MakeTags.pdb
