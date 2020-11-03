@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Double23/1.0.0": {
+        "dependencies": {
+          "Double23Library": "1.0.0"
+        },
+        "runtime": {
+          "Double23.dll": {}
+        }
+      },
+      "Double23Library/1.0.0": {
+        "runtime": {
+          "Double23Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Double23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Double23Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

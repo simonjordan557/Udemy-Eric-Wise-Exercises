@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.genruntimeconfig.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\bin\Debug\netcoreapp3.1\Double23Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Double23\Double23\obj\Debug\netcoreapp3.1\Double23.csproj.CopyComplete

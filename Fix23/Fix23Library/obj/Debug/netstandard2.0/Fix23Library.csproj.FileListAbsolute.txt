@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\bin\Debug\netstandard2.0\Fix23Library.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\bin\Debug\netstandard2.0\Fix23Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\bin\Debug\netstandard2.0\Fix23Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23Library\obj\Debug\netstandard2.0\Fix23Library.pdb

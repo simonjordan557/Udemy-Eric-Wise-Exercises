@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Fix23/1.0.0": {
+        "dependencies": {
+          "Fix23Library": "1.0.0"
+        },
+        "runtime": {
+          "Fix23.dll": {}
+        }
+      },
+      "Fix23Library/1.0.0": {
+        "runtime": {
+          "Fix23Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fix23/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fix23Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

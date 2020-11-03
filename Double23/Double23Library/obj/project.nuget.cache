@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QcKN68uwoYeFQyrWxUx1Avv3b7Cpcw/bUc4C4rcjLkCh3cImUReojsmhfIIQm9tx6fx3+P/ooEXDL5/haZqSXw==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\Double23\\Double23Library\\Double23Library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

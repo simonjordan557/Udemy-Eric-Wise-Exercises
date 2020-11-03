@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\bin\Debug\netcoreapp3.1\Fix23Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Fix23\Fix23\obj\Debug\netcoreapp3.1\Fix23.genruntimeconfig.cache

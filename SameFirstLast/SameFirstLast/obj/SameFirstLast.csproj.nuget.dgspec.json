@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj": {}
+    "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj": {}
   },
   "projects": {
-    "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj": {
+    "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj",
+        "projectUniqueName": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj",
         "projectName": "SameFirstLast",
-        "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj",
+        "projectPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SameFirstLast\\SameFirstLast\\SameFirstLast.csproj",
         "packagesPath": "C:\\Users\\simon\\.nuget\\packages\\",
-        "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\SameFirstLast\\SameFirstLast\\obj\\",
+        "outputPath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SameFirstLast\\SameFirstLast\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
