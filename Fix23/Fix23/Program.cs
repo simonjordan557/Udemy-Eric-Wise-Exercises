@@ -12,13 +12,14 @@ namespace Fix23
             Random rng = new Random();
 
             Console.WriteLine("GENERATING A RANDOM ARRAY OF 10 INTEGERS, 1 - 5: \n");
-
+            
             int[] numbers = new int[10];
             for (int i = 0; i < 10; i++)
             {
                 numbers[i] = rng.Next(1, 5);
             }
-
+            
+            // int[] numbers = new int[10] { 3, 2, 1, 3, 2, 2, 4, 1, 2, 4 };
             foreach (int num in numbers)
             {
                 Console.Write($"{num} ");

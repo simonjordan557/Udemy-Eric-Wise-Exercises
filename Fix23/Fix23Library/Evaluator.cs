@@ -20,9 +20,19 @@ namespace Fix23Library
 
                 else
                 {
-                    if (arr[i - 1] == 2 && i > 0)
+                    if (i > 0)
                     {
-                        resultList.Add(0);
+                        if (arr[i - 1] == 2)
+                        {
+                            resultList.Add(0);
+                        }
+
+
+                        else
+                        {
+                            resultList.Add(arr[i]);
+                        }
+                        
                     }
 
                     else
@@ -31,7 +41,6 @@ namespace Fix23Library
                     }
                 }
             }
-
             return resultList.ToArray();  
         }
     }
