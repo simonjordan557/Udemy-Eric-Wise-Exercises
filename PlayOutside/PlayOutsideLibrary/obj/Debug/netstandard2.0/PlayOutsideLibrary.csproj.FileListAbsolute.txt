@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\bin\Debug\netstandard2.0\PlayOutsideLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\bin\Debug\netstandard2.0\PlayOutsideLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\bin\Debug\netstandard2.0\PlayOutsideLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutsideLibrary\obj\Debug\netstandard2.0\PlayOutsideLibrary.pdb

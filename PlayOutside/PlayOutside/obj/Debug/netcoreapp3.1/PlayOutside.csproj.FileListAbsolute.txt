@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutside.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutsideLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\bin\Debug\netcoreapp3.1\PlayOutsideLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\PlayOutside\PlayOutside\obj\Debug\netcoreapp3.1\PlayOutside.genruntimeconfig.cache

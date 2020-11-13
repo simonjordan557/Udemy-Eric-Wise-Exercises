@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PlayOutside/1.0.0": {
+        "dependencies": {
+          "PlayOutsideLibrary": "1.0.0"
+        },
+        "runtime": {
+          "PlayOutside.dll": {}
+        }
+      },
+      "PlayOutsideLibrary/1.0.0": {
+        "runtime": {
+          "PlayOutsideLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PlayOutside/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PlayOutsideLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

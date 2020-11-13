@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\bin\Debug\netcoreapp3.1\Make2Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2\obj\Debug\netcoreapp3.1\Make2.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSum.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSumLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\bin\Debug\netcoreapp3.1\Logic_SkipSumLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSum\obj\Debug\netcoreapp3.1\Logic_SkipSum.genruntimeconfig.cache

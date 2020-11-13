@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Unlucky1/1.0.0": {
+        "dependencies": {
+          "Unlucky1Library": "1.0.0"
+        },
+        "runtime": {
+          "Unlucky1.dll": {}
+        }
+      },
+      "Unlucky1Library/1.0.0": {
+        "runtime": {
+          "Unlucky1Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Unlucky1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Unlucky1Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30709.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make2", "Make2\Make2.csproj", "{CA74B818-B4D2-4083-861B-DA145C3FF8F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make2Library", "Make2Library\Make2Library.csproj", "{E13A8F14-30AF-4451-A82A-834993BC4546}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Make2Tests", "Make2Tests\Make2Tests.csproj", "{B2ECD3E3-0368-4863-ABFA-C0C8748E11FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA74B818-B4D2-4083-861B-DA145C3FF8F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA74B818-B4D2-4083-861B-DA145C3FF8F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA74B818-B4D2-4083-861B-DA145C3FF8F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA74B818-B4D2-4083-861B-DA145C3FF8F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E13A8F14-30AF-4451-A82A-834993BC4546}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E13A8F14-30AF-4451-A82A-834993BC4546}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E13A8F14-30AF-4451-A82A-834993BC4546}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E13A8F14-30AF-4451-A82A-834993BC4546}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2ECD3E3-0368-4863-ABFA-C0C8748E11FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ECD3E3-0368-4863-ABFA-C0C8748E11FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ECD3E3-0368-4863-ABFA-C0C8748E11FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ECD3E3-0368-4863-ABFA-C0C8748E11FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AF6CCBA-87CF-42FB-A81D-C9061DDB3CC0}
+	EndGlobalSection
+EndGlobal

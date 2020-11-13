@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Logic_SkipSum/1.0.0": {
+        "dependencies": {
+          "Logic_SkipSumLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Logic_SkipSum.dll": {}
+        }
+      },
+      "Logic_SkipSumLibrary/1.0.0": {
+        "runtime": {
+          "Logic_SkipSumLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Logic_SkipSum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Logic_SkipSumLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

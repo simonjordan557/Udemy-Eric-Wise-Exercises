@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Make2/1.0.0": {
+        "dependencies": {
+          "Make2Library": "1.0.0"
+        },
+        "runtime": {
+          "Make2.dll": {}
+        }
+      },
+      "Make2Library/1.0.0": {
+        "runtime": {
+          "Make2Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Make2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Make2Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

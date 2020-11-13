@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\bin\Debug\netstandard2.0\Logic_SkipSumLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\bin\Debug\netstandard2.0\Logic_SkipSumLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\bin\Debug\netstandard2.0\Logic_SkipSumLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Logic_SkipSum\Logic_SkipSumLibrary\obj\Debug\netstandard2.0\Logic_SkipSumLibrary.pdb

@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\bin\Debug\netstandard2.0\Make2Library.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\bin\Debug\netstandard2.0\Make2Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\bin\Debug\netstandard2.0\Make2Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Make2\Make2Library\obj\Debug\netstandard2.0\Make2Library.pdb

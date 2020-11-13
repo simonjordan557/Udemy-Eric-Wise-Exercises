@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\bin\Debug\netstandard2.0\Unlucky1Library.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\bin\Debug\netstandard2.0\Unlucky1Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\bin\Debug\netstandard2.0\Unlucky1Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Unlucky1\Unlucky1Library\obj\Debug\netstandard2.0\Unlucky1Library.pdb
