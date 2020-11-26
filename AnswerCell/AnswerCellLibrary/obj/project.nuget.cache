@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CiWJ3rEHfc3HViEat9Mi1SO369HMmHMuKUbcFPIPa8E3SQvmU9q/hGmZOWhkZthyZxzIYJy7VoNfhOsWRtDhxw==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\AnswerCell\\AnswerCellLibrary\\AnswerCellLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

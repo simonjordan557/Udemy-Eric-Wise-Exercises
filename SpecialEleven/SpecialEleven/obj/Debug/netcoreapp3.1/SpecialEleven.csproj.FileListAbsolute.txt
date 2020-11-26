@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialEleven.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialElevenLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\bin\Debug\netcoreapp3.1\SpecialElevenLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpecialEleven\obj\Debug\netcoreapp3.1\SpecialEleven.genruntimeconfig.cache

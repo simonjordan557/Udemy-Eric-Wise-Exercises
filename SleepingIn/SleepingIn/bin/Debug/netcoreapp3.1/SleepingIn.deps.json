@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SleepingIn/1.0.0": {
+        "dependencies": {
+          "SleepingInLibrary": "1.0.0"
+        },
+        "runtime": {
+          "SleepingIn.dll": {}
+        }
+      },
+      "SleepingInLibrary/1.0.0": {
+        "runtime": {
+          "SleepingInLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SleepingIn/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SleepingInLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

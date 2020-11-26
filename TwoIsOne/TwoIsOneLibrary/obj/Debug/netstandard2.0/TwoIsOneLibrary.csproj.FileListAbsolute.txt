@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\bin\Debug\netstandard2.0\TwoIsOneLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\bin\Debug\netstandard2.0\TwoIsOneLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\bin\Debug\netstandard2.0\TwoIsOneLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOneLibrary\obj\Debug\netstandard2.0\TwoIsOneLibrary.pdb

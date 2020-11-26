@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\bin\Debug\netstandard2.0\SpecialElevenLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\bin\Debug\netstandard2.0\SpecialElevenLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\bin\Debug\netstandard2.0\SpecialElevenLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SpecialEleven\SpacialElevenLibrary\obj\Debug\netstandard2.0\SpecialElevenLibrary.pdb

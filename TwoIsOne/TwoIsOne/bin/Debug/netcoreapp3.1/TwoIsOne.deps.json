@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TwoIsOne/1.0.0": {
+        "dependencies": {
+          "TwoIsOneLibrary": "1.0.0"
+        },
+        "runtime": {
+          "TwoIsOne.dll": {}
+        }
+      },
+      "TwoIsOneLibrary/1.0.0": {
+        "runtime": {
+          "TwoIsOneLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TwoIsOne/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TwoIsOneLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

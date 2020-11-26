@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOne.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOneLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\bin\Debug\netcoreapp3.1\TwoIsOneLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\TwoIsOne\TwoIsOne\obj\Debug\netcoreapp3.1\TwoIsOne.genruntimeconfig.cache

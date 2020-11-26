@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigit.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigitLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\bin\Debug\netcoreapp3.1\LastDigitLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigit\obj\Debug\netcoreapp3.1\LastDigit.genruntimeconfig.cache

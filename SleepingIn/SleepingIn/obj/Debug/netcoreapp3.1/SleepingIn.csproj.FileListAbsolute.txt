@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingIn.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingInLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\bin\Debug\netcoreapp3.1\SleepingInLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingIn\obj\Debug\netcoreapp3.1\SleepingIn.genruntimeconfig.cache

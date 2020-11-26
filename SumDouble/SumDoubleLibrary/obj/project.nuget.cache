@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y18J9ZjeraCZFDI3waV+UDGpt3VsWz0Xf6bR4LhSe9WCqoIyeCHRC5lEdnwHjVDKb0bRIH+kE5H/UHyH8wN0Bg==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\SumDouble\\SumDoubleLibrary\\SumDoubleLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\bin\Debug\netcoreapp3.1\Mod35Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod35\Mod35\obj\Debug\netcoreapp3.1\Mod35.genruntimeconfig.cache

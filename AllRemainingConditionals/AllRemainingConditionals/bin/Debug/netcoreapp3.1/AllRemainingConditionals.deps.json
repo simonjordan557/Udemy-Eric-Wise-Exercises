@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AllRemainingConditionals/1.0.0": {
+        "dependencies": {
+          "AllRemainingConditionalsLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AllRemainingConditionals.dll": {}
+        }
+      },
+      "AllRemainingConditionalsLibrary/1.0.0": {
+        "runtime": {
+          "AllRemainingConditionalsLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AllRemainingConditionals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AllRemainingConditionalsLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

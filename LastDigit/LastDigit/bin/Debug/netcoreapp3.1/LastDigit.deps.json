@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LastDigit/1.0.0": {
+        "dependencies": {
+          "LastDigitLibrary": "1.0.0"
+        },
+        "runtime": {
+          "LastDigit.dll": {}
+        }
+      },
+      "LastDigitLibrary/1.0.0": {
+        "runtime": {
+          "LastDigitLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LastDigit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LastDigitLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

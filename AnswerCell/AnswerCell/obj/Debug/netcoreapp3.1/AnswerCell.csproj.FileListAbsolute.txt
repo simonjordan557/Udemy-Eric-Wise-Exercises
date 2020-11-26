@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCell.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCellLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\bin\Debug\netcoreapp3.1\AnswerCellLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCell\obj\Debug\netcoreapp3.1\AnswerCell.genruntimeconfig.cache

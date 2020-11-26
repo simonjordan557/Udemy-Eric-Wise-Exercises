@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrder.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrderLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\bin\Debug\netcoreapp3.1\AreInOrderLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrder\obj\Debug\netcoreapp3.1\AreInOrder.genruntimeconfig.cache

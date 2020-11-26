@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InOrderEqual/1.0.0": {
+        "dependencies": {
+          "InOrderEqualLibrary": "1.0.0"
+        },
+        "runtime": {
+          "InOrderEqual.dll": {}
+        }
+      },
+      "InOrderEqualLibrary/1.0.0": {
+        "runtime": {
+          "InOrderEqualLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InOrderEqual/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InOrderEqualLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

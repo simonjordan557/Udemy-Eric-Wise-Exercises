@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionals.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionalsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\bin\Debug\netcoreapp3.1\AllRemainingConditionalsLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionals\obj\Debug\netcoreapp3.1\AllRemainingConditionals.genruntimeconfig.cache

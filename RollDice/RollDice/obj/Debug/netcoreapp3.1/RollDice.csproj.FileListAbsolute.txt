@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDice.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDiceLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\bin\Debug\netcoreapp3.1\RollDiceLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDice\obj\Debug\netcoreapp3.1\RollDice.genruntimeconfig.cache

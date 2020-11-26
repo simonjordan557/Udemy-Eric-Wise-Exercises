@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\bin\Debug\netstandard2.0\AnswerCellLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\bin\Debug\netstandard2.0\AnswerCellLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\bin\Debug\netstandard2.0\AnswerCellLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AnswerCell\AnswerCellLibrary\obj\Debug\netstandard2.0\AnswerCellLibrary.pdb

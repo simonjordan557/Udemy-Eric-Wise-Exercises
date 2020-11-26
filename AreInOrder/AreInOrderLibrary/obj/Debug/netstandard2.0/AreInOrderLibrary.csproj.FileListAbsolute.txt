@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\bin\Debug\netstandard2.0\AreInOrderLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\bin\Debug\netstandard2.0\AreInOrderLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\bin\Debug\netstandard2.0\AreInOrderLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreInOrder\AreInOrderLibrary\obj\Debug\netstandard2.0\AreInOrderLibrary.pdb

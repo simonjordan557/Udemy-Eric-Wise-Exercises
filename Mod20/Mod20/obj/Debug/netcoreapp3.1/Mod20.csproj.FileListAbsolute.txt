@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\bin\Debug\netcoreapp3.1\Mod20Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20\obj\Debug\netcoreapp3.1\Mod20.genruntimeconfig.cache

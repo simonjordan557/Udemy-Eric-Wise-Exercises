@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AnswerCell/1.0.0": {
+        "dependencies": {
+          "AnswerCellLibrary": "1.0.0"
+        },
+        "runtime": {
+          "AnswerCell.dll": {}
+        }
+      },
+      "AnswerCellLibrary/1.0.0": {
+        "runtime": {
+          "AnswerCellLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnswerCell/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AnswerCellLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

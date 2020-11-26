@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mod35/1.0.0": {
+        "dependencies": {
+          "Mod35Library": "1.0.0"
+        },
+        "runtime": {
+          "Mod35.dll": {}
+        }
+      },
+      "Mod35Library/1.0.0": {
+        "runtime": {
+          "Mod35Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod35/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mod35Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

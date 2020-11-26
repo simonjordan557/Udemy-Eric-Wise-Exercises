@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDouble.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDoubleLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\bin\Debug\netcoreapp3.1\SumDoubleLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDouble\obj\Debug\netcoreapp3.1\SumDouble.genruntimeconfig.cache

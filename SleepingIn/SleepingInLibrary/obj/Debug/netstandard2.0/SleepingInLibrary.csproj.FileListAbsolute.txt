@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\bin\Debug\netstandard2.0\SleepingInLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\bin\Debug\netstandard2.0\SleepingInLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\bin\Debug\netstandard2.0\SleepingInLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SleepingIn\SleepingInLibrary\obj\Debug\netstandard2.0\SleepingInLibrary.pdb

@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\bin\Debug\netstandard2.0\AllRemainingConditionalsLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\bin\Debug\netstandard2.0\AllRemainingConditionalsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\bin\Debug\netstandard2.0\AllRemainingConditionalsLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllRemainingConditionals\AllRemainingConditionalsLibrary\obj\Debug\netstandard2.0\AllRemainingConditionalsLibrary.pdb

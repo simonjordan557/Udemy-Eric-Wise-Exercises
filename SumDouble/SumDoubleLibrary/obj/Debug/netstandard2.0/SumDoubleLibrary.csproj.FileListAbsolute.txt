@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\bin\Debug\netstandard2.0\SumDoubleLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\bin\Debug\netstandard2.0\SumDoubleLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\bin\Debug\netstandard2.0\SumDoubleLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\SumDouble\SumDoubleLibrary\obj\Debug\netstandard2.0\SumDoubleLibrary.pdb

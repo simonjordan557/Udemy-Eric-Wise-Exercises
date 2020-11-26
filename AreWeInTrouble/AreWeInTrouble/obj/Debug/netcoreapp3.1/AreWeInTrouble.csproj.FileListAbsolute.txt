@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTrouble.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTroubleLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\bin\Debug\netcoreapp3.1\AreWeInTroubleLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AreWeInTrouble\AreWeInTrouble\obj\Debug\netcoreapp3.1\AreWeInTrouble.genruntimeconfig.cache

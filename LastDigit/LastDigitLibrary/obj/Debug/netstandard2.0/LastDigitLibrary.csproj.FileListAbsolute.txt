@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\bin\Debug\netstandard2.0\LastDigitLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\bin\Debug\netstandard2.0\LastDigitLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\bin\Debug\netstandard2.0\LastDigitLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\LastDigit\LastDigitLibrary\obj\Debug\netstandard2.0\LastDigitLibrary.pdb

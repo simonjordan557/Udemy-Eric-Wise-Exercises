@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\bin\Debug\netstandard2.0\Mod20Library.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\bin\Debug\netstandard2.0\Mod20Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\bin\Debug\netstandard2.0\Mod20Library.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\Mod20\Mod20Library\obj\Debug\netstandard2.0\Mod20Library.pdb

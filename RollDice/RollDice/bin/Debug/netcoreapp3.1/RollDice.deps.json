@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "RollDice/1.0.0": {
+        "dependencies": {
+          "RollDiceLibrary": "1.0.0"
+        },
+        "runtime": {
+          "RollDice.dll": {}
+        }
+      },
+      "RollDiceLibrary/1.0.0": {
+        "runtime": {
+          "RollDiceLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RollDice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RollDiceLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

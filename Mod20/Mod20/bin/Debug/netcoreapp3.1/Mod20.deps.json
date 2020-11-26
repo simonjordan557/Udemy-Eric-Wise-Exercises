@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mod20/1.0.0": {
+        "dependencies": {
+          "Mod20Library": "1.0.0"
+        },
+        "runtime": {
+          "Mod20.dll": {}
+        }
+      },
+      "Mod20Library/1.0.0": {
+        "runtime": {
+          "Mod20Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mod20/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Mod20Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

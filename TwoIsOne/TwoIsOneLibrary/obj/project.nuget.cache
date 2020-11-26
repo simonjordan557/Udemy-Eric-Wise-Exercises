@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CIuQK0tvcZNRnoO+nTK68jzQjV51ihJiGyNMh/g83E8p9mdpwAKerOqGIgjVgkHeUN8H7qYYPOHSKvzTpDluig==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\TwoIsOne\\TwoIsOneLibrary\\TwoIsOneLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

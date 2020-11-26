@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\bin\Debug\netstandard2.0\RollDiceLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\bin\Debug\netstandard2.0\RollDiceLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\bin\Debug\netstandard2.0\RollDiceLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\RollDice\RollDiceLibrary\obj\Debug\netstandard2.0\RollDiceLibrary.pdb
