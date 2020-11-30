@@ -1,0 +1,9 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\bin\Debug\netstandard2.0\AllLoopsLibrary.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\bin\Debug\netstandard2.0\AllLoopsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\bin\Debug\netstandard2.0\AllLoopsLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoopsLibrary\obj\Debug\netstandard2.0\AllLoopsLibrary.pdb

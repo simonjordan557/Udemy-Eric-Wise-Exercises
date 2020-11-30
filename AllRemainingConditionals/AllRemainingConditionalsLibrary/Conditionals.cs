@@ -89,5 +89,89 @@ namespace AllRemainingConditionalsLibrary
             return ((a >= 13 && a <= 19) && !(b >= 13 && b <= 19)) || ((b >= 13 && b <= 19) && !(a >= 13 && a <= 19));
         }
 
+        public string RemoveDel(string s)
+        {
+            if (s.Length >= 4)
+            {
+                return (s.Substring(1, 3) == "del") ? s.Remove(1, 3) : s;
+            }
+
+            else return s;  
+        }
+
+        public bool IxStart(string s)
+        {
+            if (s.Length >= 3)
+            {
+                return (s.Substring(1, 2) == "ix") ? true : false;
+            }
+
+            else return false;
+        }
+
+        public string StartOz(string s)
+        {
+            StringBuilder sb = new StringBuilder();
+
+            if (s.Length >= 2)
+            {
+                if (s[0] == 'o')
+                {
+                    sb.Append('o');
+                }
+
+                if (s[1] == 'z')
+                {
+                    sb.Append('z');
+                }
+            }
+
+            return sb.ToString();
+        }
+
+        public int Max(int a, int b, int c)
+        {
+            int[] parameters = new int[] { a, b, c };
+            return parameters.Max();
+        }
+
+        public int Closer(int a, int b)
+        {
+            int testA = Math.Abs(10 - a);
+            int testB = Math.Abs(10 - b);
+
+            return testA == testB ? 0 : testA > testB ? b : a; 
+        }
+
+        public bool GotE(string s)
+        {
+            int result = s.Count(c => c == 'e');
+            return result >= 1 && result <= 3;
+        }
+
+        public string EndUp(string s)
+        {
+            if (s.Length <= 3)
+            {
+                return s.ToUpper();
+            }
+
+            else return s.Substring(0, s.Length - 3) + s.Substring(s.Length - 3, 3).ToUpper();
+        }
+
+        public string EveryNth(string s, int n)
+        {
+            StringBuilder sb = new StringBuilder();
+            int counter = n;
+            sb.Append(s[0]);
+
+            while (counter < s.Length)
+            {
+                _ = sb.Append(s[counter]);
+                counter += n;
+            }
+
+            return sb.ToString();
+        }
     }
 }

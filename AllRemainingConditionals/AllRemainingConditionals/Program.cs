@@ -14,7 +14,7 @@ namespace AllRemainingConditionals
             bool z;
             string s;
             string resultString;
-            string[] stringArray = new string[] { "Hello", "hi", "hi there,", "I", "am", "not", "a", "list,", "I am", "actually an", "array of strings" };
+            string[] stringArray = new string[] { "Hello", "hi", "hi there,", "I", "am", "not", "a", "list,", "I am", "actually an", "array of strings", "Adel is a Street Fighter character.", "Oz was a prison drama", "Ozymandias was a Watchman", "Mixing things up now" };
 
             // Diff21
             a = rng.Next(1, 41);
@@ -114,11 +114,68 @@ namespace AllRemainingConditionals
             Console.WriteLine($"The number set {a}, {b}, and {c} {resultString} contain a number ending in \"teen\".\n");
 
             // SoAlone
+
             a = rng.Next(1, 100);
             b = rng.Next(1, 100);
             resultString = conditionals.SoAlone(a, b) ? "is" : "isn't";
             Console.WriteLine($"\n*** SoAlone ***\n");
             Console.WriteLine($"Two people aged {a} and {b}: There {resultString} a teen who is So Alone..\n");
+
+            // RemoveDel
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            Console.WriteLine($"\n*** RemoveDel ***\n");
+            Console.WriteLine($"DelRemove turns the original string {s} into {conditionals.RemoveDel(s)}.\n");
+
+            // IxStart
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            Console.WriteLine($"\n*** IxStart ***\n");
+            Console.WriteLine($"Does {s} start with \"ix\"? {conditionals.IxStart(s)}.\n");
+
+            // StartOz
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            Console.WriteLine($"\n*** StartOz ***\n");
+            Console.WriteLine($"StartOz turns the original string {s} into {conditionals.StartOz(s)}.\n");
+
+            // Max
+
+            a = rng.Next(1, 21);
+            b = rng.Next(1, 21);
+            c = rng.Next(1, 21);
+            Console.WriteLine($"\n*** Max ***\n");
+            Console.WriteLine($"Of the numbers {a}, {b}, {c}; {conditionals.Max(a, b, c)} is the biggest.\n");
+
+            // Closer
+
+            a = rng.Next(1, 21);
+            b = rng.Next(1, 21);
+            int result = conditionals.Closer(a, b);
+            resultString = result != 0 ? "is closer to 10" : "difference between their distance from 10 ";
+            Console.WriteLine($"\n*** Closer ***\n");
+            Console.WriteLine($"Of the numbers {a} and {b}, {result} {resultString}.\n");
+
+            // GotE
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            resultString = conditionals.GotE(s) ? "does" : "doesn't";
+            Console.WriteLine($"\n*** GotE ***\n");
+            Console.WriteLine($"The string {s} {resultString} contain between 1 and 3 letter 'e'.\n");
+
+
+            // EndUp
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            Console.WriteLine($"\n*** EndUp ***\n");
+            Console.WriteLine($"EndUp turns the original string {s} into {conditionals.EndUp(s)}.\n");
+
+            // EveryNth
+
+            s = stringArray[rng.Next(0, stringArray.Length)];
+            a = rng.Next(1, 5);
+            Console.WriteLine($"\n*** EveryNth ***\n");
+            Console.WriteLine($"EveryNth turns the original string {s}, taking the first then every {a}th character, into {conditionals.EveryNth(s, a)}.\n");
         }
     }
 }

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "yhysLqGNV3zRqG6QV+NUe1D7Uu9BBGWrY/kz4TeVJB8qs0/SAw7Se7bZGpTyBcMlFYYRF3uZu/7xWGLw8/pvEQ==",
+  "success": true,
+  "projectFilePath": "L:\\Backup 19.1.18\\Gamedev\\Visual Studio 2019\\Eric Wise Udemy C# Course\\AllLoops\\AllLoopsLibrary\\AllLoopsLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\simon\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\simon\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

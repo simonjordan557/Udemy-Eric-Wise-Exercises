@@ -1,0 +1,16 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.runtimeconfig.dev.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoops.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoopsLibrary.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\bin\Debug\netcoreapp3.1\AllLoopsLibrary.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.csprojAssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.csproj.CopyComplete
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\Eric Wise Udemy C# Course\AllLoops\AllLoops\obj\Debug\netcoreapp3.1\AllLoops.genruntimeconfig.cache

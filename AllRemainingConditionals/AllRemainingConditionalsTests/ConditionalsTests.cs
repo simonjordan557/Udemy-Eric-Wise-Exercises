@@ -5,7 +5,7 @@ namespace AllRemainingConditionalsTests
 {
     public class ConditionalsTests
     {
-        Conditionals _conditionals;   
+        Conditionals _conditionals;
 
         [SetUp]
         public void Setup()
@@ -176,5 +176,92 @@ namespace AllRemainingConditionalsTests
             bool result = _conditionals.SoAlone(a, b);
             Assert.That(result, Is.EqualTo(expectedResult));
         }
+        [Test]
+        [TestCase("adelbc", "abc")]
+        [TestCase("adelHello", "aHello")]
+        [TestCase("adedbc", "adedbc")]
+
+        public void RemoveDel_WrittenUnitTests(string s, string expectedResult)
+        {
+            string result = _conditionals.RemoveDel(s);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase("mix snacks", true)]
+        [TestCase("pix snacks", true)]
+        [TestCase("piz snacks", false)]
+
+        public void IxStart_WrittenUnitTests(string s, bool expectedResult)
+        {
+            bool result = _conditionals.IxStart(s);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase("ozymandias", "oz")]
+        [TestCase("bzoo", "z")]
+        [TestCase("oxx", "o")]
+        public void StartOz_WrittenUnitTests(string s, string expectedResult)
+        {
+            string result = _conditionals.StartOz(s);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase(1, 2, 3, 3)]
+        [TestCase(1, 3, 2, 3)]
+        [TestCase(3, 2, 1, 3)]
+
+        public void Max_WrittenUnitTests(int a, int b, int c, int expectedResult)
+        {
+            int result = _conditionals.Max(a, b, c);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase(8, 13, 8)]
+        [TestCase(13, 8, 8)]
+        [TestCase(13, 7, 0)]
+
+        public void Closer_WrittenUnitTests(int a, int b, int expectedResult)
+        {
+            int result = _conditionals.Closer(a, b);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase("Hello", true)]
+        [TestCase("Heelle", true)]
+        [TestCase("Heelele", false)]
+
+        public void GotE_WrittenUnitTests(string s, bool expectedResult)
+        {
+            bool result = _conditionals.GotE(s);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase("Hello", "HeLLO")]
+        [TestCase("hi there", "hi thERE")]
+        [TestCase("hi", "HI")]
+
+        public void EndUp_WrittenUnitTests(string s, string expectedResult)
+        {
+            string result = _conditionals.EndUp(s);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+        [Test]
+        [TestCase("Miracle", 2, "Mrce")]
+        [TestCase("abcdefg", 2, "aceg")]
+        [TestCase("abcdefg", 3, "adg")]
+        public void EveryNth_WrittenUnitTests(string s, int n, string expectedResult)
+        {
+            string result = _conditionals.EveryNth(s, n);
+            Assert.That(result, Is.EqualTo(expectedResult));
+        }
+
+            
     }
 }
